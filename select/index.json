@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "base_track": "Lights Out",
+  "base_artist": "Nulbarich",
+  "createdAt": "2026-02-17T15:14:47.817271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_Lights_Out_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Vickeblanka",
+      "has_synced": true,
+      "path": "select/02_Lights_Out_Vickeblanka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Oh No feat. Frank N Dank",
+      "has_synced": false,
+      "path": "select/03_Lights_Out_Oh_No_feat._Frank_N_Dank.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lights Out (feat. Frank N Dank)",
+      "artist": "Oh No",
+      "has_synced": false,
+      "path": "select/04_Lights_Out_(feat._Frank_N_Dank)_Oh_No.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Fred again.. feat. Romy & HAAi",
+      "has_synced": true,
+      "path": "select/05_Lights_Out_Fred_again.._feat._Romy_&_HAAi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Fred again.., Romy, & HAAi",
+      "has_synced": true,
+      "path": "select/06_Lights_Out_Fred_again..,_Romy,_&_HAAi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lights Out (HAAi Remix)",
+      "artist": "Fred again.. feat. Romy & HAAi",
+      "has_synced": true,
+      "path": "select/07_Lights_Out_(HAAi_Remix)_Fred_again.._feat._Romy_&_HAAi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lights Out (feat. Romy & HAAi) (HAAi Remix)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/08_Lights_Out_(feat._Romy_&_HAAi)_(HAAi_Remix)_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/09_Lights_Out_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/10_Lights_Out_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "The Bilinda Butchers",
+      "has_synced": false,
+      "path": "select/11_Lights_Out_The_Bilinda_Butchers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Broadcast",
+      "has_synced": false,
+      "path": "select/12_Lights_Out_Broadcast.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lights Out for Darker Skies",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/13_Lights_Out_for_Darker_Skies_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lights Out for Darkier Skies",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/14_Lights_Out_for_Darkier_Skies_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/15_Lights_Out_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/16_Lights_Out_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "W O L F C L U B feat. Jaki Nelson",
+      "has_synced": true,
+      "path": "select/17_Lights_Out_W_O_L_F_C_L_U_B_feat._Jaki_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/18_Lights_Out_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lights Out",
+      "artist": "Röyksopp feat. Pixx",
+      "has_synced": false,
+      "path": "select/19_Lights_Out_Röyksopp_feat._Pixx.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "When the Wolves Cry Out",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/20_When_the_Wolves_Cry_Out_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "When the Wolves Cry Out",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/21_When_the_Wolves_Cry_Out_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "All Night To Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/22_All_Night_To_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Holding out for a Hero",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/23_Holding_out_for_a_Hero_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/24_Locked_out_of_Heaven_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Out of Touch (Remastered)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": false,
+      "path": "select/25_Out_of_Touch_(Remastered)_Daryl_Hall_&_John_Oates.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "SOLD OUT",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/26_SOLD_OUT_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Steppin' Out",
+      "artist": "Joe Jackson",
+      "has_synced": true,
+      "path": "select/27_Steppin'_Out_Joe_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/28_Stressed_Out_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "You Took The Words Right Out of My Mouth (Hot Summer Night)",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/29_You_Took_The_Words_Right_Out_of_My_Mouth_(Hot_Summer_Night)_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Get Out (Hansa Session)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/30_Get_Out_(Hansa_Session)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "(Turn Out the Light and) Love Me Tonight",
+      "artist": "Don Williams",
+      "has_synced": false,
+      "path": "select/31_(Turn_Out_the_Light_and)_Love_Me_Tonight_Don_Williams.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "(Turn Out The Light And) Love Me Tonight (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/32_(Turn_Out_The_Light_And)_Love_Me_Tonight_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "A Fire I Can't Put Out",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/33_A_Fire_I_Can't_Put_Out_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "A Fire I Can't Put Out (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/34_A_Fire_I_Can't_Put_Out_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "A Fire I Can't Put Out (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/35_A_Fire_I_Can't_Put_Out_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/36_Blinding_Lights_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "After The Lights Go Out",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/37_After_The_Lights_Go_Out_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "After The Lights Go Out (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/38_After_The_Lights_Go_Out_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Bright Lights, Big City",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/39_Bright_Lights,_Big_City_Sonny_James.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/40_City_Lights_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/41_City_Lights_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Dim Lights",
+      "artist": "The Flying Burrito Brothers",
+      "has_synced": false,
+      "path": "select/42_Dim_Lights_The_Flying_Burrito_Brothers.txt"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Kansas City Lights",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/43_Kansas_City_Lights_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Kill The Lights",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/44_Kill_The_Lights_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "Lights Come On",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/45_Lights_Come_On_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Lights Of My Hometown",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/46_Lights_Of_My_Hometown_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "The Night The Lights Went Out In Georgia",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/47_The_Night_The_Lights_Went_Out_In_Georgia_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "The Night The Lights Went Out In Georgia",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/48_The_Night_The_Lights_Went_Out_In_Georgia_Reba_McEntire.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lights Out feat. Jeremy Quartus",
+      "artist": "Nulbarich",
+      "has_synced": false,
+      "path": "select/pl_01_Lights_Out_feat._Jeremy_Quartus_Nulbarich.txt"
+    }
+  ]
+}
